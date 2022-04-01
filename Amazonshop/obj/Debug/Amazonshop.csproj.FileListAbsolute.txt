@@ -1,0 +1,54 @@
+D:\3. Klasse\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+G:\3. Klasse\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+E:\3. Klasse\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+E:\3. Klasse\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csprojResolveAssemblyReference.cache
+F:\HTL\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+E:\HTL\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+E:\HTL\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe
+E:\HTL\Amazonshop\Amazonshop\bin\Debug\Amazonshop.pdb
+E:\HTL\Amazonshop\Amazonshop\bin\Debug\AShop.dll
+E:\HTL\Amazonshop\Amazonshop\bin\Debug\AShop.pdb
+E:\HTL\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csprojResolveAssemblyReference.cache
+E:\HTL\Amazonshop\Amazonshop\obj\Debug\Amazonshop.exe
+E:\HTL\Amazonshop\Amazonshop\obj\Debug\Amazonshop.pdb
+F:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+F:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.exe
+F:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.pdb
+G:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+G:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.exe
+G:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.pdb
+G:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csprojResolveAssemblyReference.cache
+G:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe
+G:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.pdb
+G:\Amazonshop\Amazonshop\bin\Debug\AShop.dll
+G:\Amazonshop\Amazonshop\bin\Debug\AShop.pdb
+D:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+D:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.exe
+D:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.pdb
+D:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe
+D:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.pdb
+D:\Amazonshop\Amazonshop\bin\Debug\AShop.dll
+D:\Amazonshop\Amazonshop\bin\Debug\AShop.pdb
+D:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csprojResolveAssemblyReference.cache
+F:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe
+F:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.pdb
+F:\Amazonshop\Amazonshop\bin\Debug\AShop.dll
+F:\Amazonshop\Amazonshop\bin\Debug\AShop.pdb
+F:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csprojResolveAssemblyReference.cache
+E:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+E:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.exe
+E:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.pdb
+E:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe
+E:\Amazonshop\Amazonshop\bin\Debug\Amazonshop.pdb
+E:\Amazonshop\Amazonshop\bin\Debug\AShop.dll
+E:\Amazonshop\Amazonshop\bin\Debug\AShop.pdb
+E:\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe
+C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\bin\Debug\Amazonshop.pdb
+C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\bin\Debug\AShop.dll
+C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\bin\Debug\AShop.pdb
+C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csproj.CopyComplete
+C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\obj\Debug\Amazonshop.exe
+C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\obj\Debug\Amazonshop.pdb
