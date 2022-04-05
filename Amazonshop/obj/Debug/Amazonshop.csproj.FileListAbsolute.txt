@@ -52,3 +52,12 @@ C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csp
 C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csproj.CopyComplete
 C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\obj\Debug\Amazonshop.exe
 C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\Amazonshop\obj\Debug\Amazonshop.pdb
+C:\Users\Mario\Desktop\myprojects\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe.config
+C:\Users\Mario\Desktop\myprojects\Amazonshop\Amazonshop\bin\Debug\Amazonshop.exe
+C:\Users\Mario\Desktop\myprojects\Amazonshop\Amazonshop\bin\Debug\Amazonshop.pdb
+C:\Users\Mario\Desktop\myprojects\Amazonshop\Amazonshop\bin\Debug\AShop.dll
+C:\Users\Mario\Desktop\myprojects\Amazonshop\Amazonshop\bin\Debug\AShop.pdb
+C:\Users\Mario\Desktop\myprojects\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\myprojects\Amazonshop\Amazonshop\obj\Debug\Amazonshop.csproj.CopyComplete
+C:\Users\Mario\Desktop\myprojects\Amazonshop\Amazonshop\obj\Debug\Amazonshop.exe
+C:\Users\Mario\Desktop\myprojects\Amazonshop\Amazonshop\obj\Debug\Amazonshop.pdb

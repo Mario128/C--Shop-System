@@ -202,33 +202,36 @@ namespace Amazonshop
                         Console.ReadKey();
                         Console.Clear();
 
-
-                        Console.WriteLine("Wollen Sie diese Artikel bestellen?[j,n]: ");
-                        choicePurchase = Convert.ToChar(Console.ReadLine().ToLower());
-                        switch (choicePurchase)
+                        if((AShop.Basket != null)&&(AShop.Basket.Count > 0))
                         {
-                            case 'j':
-                                string body = "";
-                                foreach(Article a in AShop.Basket)
-                                {
-                                    body = body + "" + Convert.ToString(a);
-                                }
-                                Console.WriteLine("Anzahl der Artikel: " + AShop.CountArticle);
-                                Console.WriteLine("Gesamtpreis: " + AShop.Price + " Euro");
-                                body = body + "\nAnzahl der Artikel: " + AShop.CountArticle;
-                                body = body + "\nGesamtpreis: " + AShop.Price + "Euro";
-                                Console.WriteLine("Geben Sie nun ihre Personendaten ein:");
-                                user = PersonData();
-                                Console.WriteLine("Nun benötigen wir nur noch Ihre Email-Adresse:");
-                                string email = Console.ReadLine();
-                                SendMail(email, body);
-                                Console.WriteLine("Ihnen wird nun eine Bestätigungs-Email gesendet.");
-                                                               
-                                break;
+                            Console.WriteLine("Wollen Sie diese Artikel bestellen?[j,n]: ");
+                            choicePurchase = Convert.ToChar(Console.ReadLine().ToLower());
+                            switch (choicePurchase)
+                            {
+                                case 'j':
+                                    string body = "";
+                                    foreach (Article a in AShop.Basket)
+                                    {
+                                        body = body + "" + Convert.ToString(a);
+                                    }
+                                    Console.WriteLine("Anzahl der Artikel: " + AShop.CountArticle);
+                                    Console.WriteLine("Gesamtpreis: " + AShop.Price + " Euro");
+                                    body = body + "\nAnzahl der Artikel: " + AShop.CountArticle;
+                                    body = body + "\nGesamtpreis: " + AShop.Price + "Euro";
+                                    Console.WriteLine("Geben Sie nun ihre Personendaten ein:");
+                                    user = PersonData();
+                                    Console.WriteLine("Nun benötigen wir nur noch Ihre Email-Adresse:");
+                                    string email = Console.ReadLine();
+                                    SendMail(email, body);
+                                    Console.WriteLine("Ihnen wird nun eine Bestätigungs-Email gesendet.");
 
-                            case 'n':
-                                Console.WriteLine("Sie werden nun zum Warenkorb zurückgeleitet.");
-                                break;
+                                    break;
+
+                                case 'n':
+                                    Console.WriteLine("Sie werden nun zum Warenkorb zurückgeleitet.");
+                                    break;
+                            }
+                            break;
                         }
                         break;
                 }

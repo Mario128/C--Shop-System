@@ -27,3 +27,8 @@ C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\AShop\bin\Debug\AShop.pdb
 C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\AShop\obj\Debug\AShop.csprojAssemblyReference.cache
 C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\AShop\obj\Debug\AShop.dll
 C:\Users\Mario\Desktop\HTL\SWP_4B\Amazonshop\AShop\obj\Debug\AShop.pdb
+C:\Users\Mario\Desktop\myprojects\Amazonshop\AShop\bin\Debug\AShop.dll
+C:\Users\Mario\Desktop\myprojects\Amazonshop\AShop\bin\Debug\AShop.pdb
+C:\Users\Mario\Desktop\myprojects\Amazonshop\AShop\obj\Debug\AShop.csprojAssemblyReference.cache
+C:\Users\Mario\Desktop\myprojects\Amazonshop\AShop\obj\Debug\AShop.dll
+C:\Users\Mario\Desktop\myprojects\Amazonshop\AShop\obj\Debug\AShop.pdb
